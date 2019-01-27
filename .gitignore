@@ -1,0 +1,19 @@
+# internal and intermediate data
+/int/
+
+# Eclipse directories and files
+/.settings/
+/.cproject
+/.project
+
+# Build directories
+/dep/
+/mex/
+/obj/
+
+# Writer lock file
+/doc/.~lock*
+
+
+
+
